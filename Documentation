@@ -1,0 +1,24 @@
+This is a VB.NET program for a chat application. The app includes the following modules: System.Net, System.Net.Sockets, System.IO, System.Net.Http, System.Diagnostics, System.Text.RegularExpressions, and System.Windows.Forms.VisualStyles.VisualStyleElement.StartPanel.
+
+The main class of the program is the mainpage class. The class includes a constructor and several event handlers for the UI components. The main functionality of the program is to start a chat server and accept client connections. It also allows clients to connect to the chat server and communicate with other connected clients.
+
+Here is a brief overview of the different methods and functions in the program:
+
+New(): This is the constructor of the mainpage class. It initializes the UI components of the program and sets the server IP address to the local IP address of the host machine.
+
+startBtn_Click(): This method is called when the "Start" button is clicked. It validates the port number and username entered by the user and starts a TCP listener on the specified port. It waits for a client to connect and sends a message to all connected clients when a new client is connected.
+
+TextBox2_TextChanged(): This method is called when the user enters a value in the "ServerPorttextBox" and presses the "Enter" key. It triggers the "Start" button's click event.
+
+backBtn_Click(): This method is called when the "Back" button is clicked. It closes all the open TCP listeners and TCP clients and returns the user to the home screen.
+
+connectBtn_Click(): This method is called when the "Connect" button is clicked. It validates the username entered by the user and connects to the chat server using a TCP client.
+
+The program also includes a few other methods that are used to send and receive messages from clients:
+
+BackgroundWorker1_DoWork(): This method is called when the "BackgroundWorker1" is run. It continuously reads incoming messages from connected clients and displays them on the UI.
+
+BackgroundWorker2_DoWork(): This method is called when the "BackgroundWorker2" is run. It continuously sends outgoing messages to connected clients.
+
+When the application is exited or the server is left, the open ports will be closed automatically. This ensures that there are no lingering connections that can potentially pose security risks or cause conflicts with other applications using the same ports.
+
