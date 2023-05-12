@@ -17,3 +17,5 @@ Khalil Farhat - khalilrfarhat297@gmail.com
 ![image](https://github.com/KhalilFarhat/ChatZone/assets/100374222/6aaee460-c029-41c4-895c-24161783f9f8)
 ![image](https://github.com/KhalilFarhat/ChatZone/assets/100374222/9517bffc-2a96-44e5-b25e-bd5b29420acf)
 ![image](https://github.com/KhalilFarhat/ChatZone/assets/100374222/83276751-2e29-421f-9201-b63bded5f26f)
+![image](https://github.com/KhalilFarhat/ChatZone/assets/100374222/6f324ee3-4674-469b-b707-839ac8c627ec)
+![Untitled](https://github.com/KhalilFarhat/ChatZone/assets/100374222/f63382c8-5ca9-447a-9440-47f5399da702)
