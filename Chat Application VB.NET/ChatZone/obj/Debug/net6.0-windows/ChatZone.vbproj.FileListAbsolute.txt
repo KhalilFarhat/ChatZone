@@ -1,0 +1,40 @@
+C:\Users\Khalil Farhat\OneDrive\Desktop\Chat Application VB.NET\ChatZone\obj\Debug\net6.0-windows\ChatZone.vbproj.AssemblyReference.cache
+C:\Users\Khalil Farhat\OneDrive\Desktop\Chat Application VB.NET\ChatZone\obj\Debug\net6.0-windows\ChatZone.Home.resources
+C:\Users\Khalil Farhat\OneDrive\Desktop\Chat Application VB.NET\ChatZone\obj\Debug\net6.0-windows\ChatZone.instructions.resources
+C:\Users\Khalil Farhat\OneDrive\Desktop\Chat Application VB.NET\ChatZone\obj\Debug\net6.0-windows\ChatZone.mainpage.resources
+C:\Users\Khalil Farhat\OneDrive\Desktop\Chat Application VB.NET\ChatZone\obj\Debug\net6.0-windows\ChatZone.Resources.resources
+C:\Users\Khalil Farhat\OneDrive\Desktop\Chat Application VB.NET\ChatZone\obj\Debug\net6.0-windows\ChatZone.vbproj.GenerateResource.cache
+C:\Users\Khalil Farhat\OneDrive\Desktop\Chat Application VB.NET\ChatZone\obj\Debug\net6.0-windows\ChatZone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Khalil Farhat\OneDrive\Desktop\Chat Application VB.NET\ChatZone\obj\Debug\net6.0-windows\ChatZone.AssemblyInfoInputs.cache
+C:\Users\Khalil Farhat\OneDrive\Desktop\Chat Application VB.NET\ChatZone\obj\Debug\net6.0-windows\ChatZone.AssemblyInfo.vb
+C:\Users\Khalil Farhat\OneDrive\Desktop\Chat Application VB.NET\ChatZone\obj\Debug\net6.0-windows\ChatZone.vbproj.CoreCompileInputs.cache
+C:\Users\Khalil Farhat\OneDrive\Desktop\Chat Application VB.NET\ChatZone\bin\Debug\net6.0-windows\ChatZone.exe
+C:\Users\Khalil Farhat\OneDrive\Desktop\Chat Application VB.NET\ChatZone\bin\Debug\net6.0-windows\ChatZone.deps.json
+C:\Users\Khalil Farhat\OneDrive\Desktop\Chat Application VB.NET\ChatZone\bin\Debug\net6.0-windows\ChatZone.runtimeconfig.json
+C:\Users\Khalil Farhat\OneDrive\Desktop\Chat Application VB.NET\ChatZone\bin\Debug\net6.0-windows\ChatZone.dll
+C:\Users\Khalil Farhat\OneDrive\Desktop\Chat Application VB.NET\ChatZone\bin\Debug\net6.0-windows\ChatZone.pdb
+C:\Users\Khalil Farhat\OneDrive\Desktop\Chat Application VB.NET\ChatZone\obj\Debug\net6.0-windows\ChatZone.dll
+C:\Users\Khalil Farhat\OneDrive\Desktop\Chat Application VB.NET\ChatZone\obj\Debug\net6.0-windows\refint\ChatZone.dll
+C:\Users\Khalil Farhat\OneDrive\Desktop\Chat Application VB.NET\ChatZone\obj\Debug\net6.0-windows\ChatZone.pdb
+C:\Users\Khalil Farhat\OneDrive\Desktop\Chat Application VB.NET\ChatZone\obj\Debug\net6.0-windows\ChatZone.genruntimeconfig.cache
+C:\Users\Khalil Farhat\OneDrive\Desktop\Chat Application VB.NET\ChatZone\obj\Debug\net6.0-windows\ref\ChatZone.dll
+C:\Users\Khalil Farhat\OneDrive\Desktop\Chat Application VB.NET - Copy\ChatZone\bin\Debug\net6.0-windows\ChatZone.exe
+C:\Users\Khalil Farhat\OneDrive\Desktop\Chat Application VB.NET - Copy\ChatZone\bin\Debug\net6.0-windows\ChatZone.deps.json
+C:\Users\Khalil Farhat\OneDrive\Desktop\Chat Application VB.NET - Copy\ChatZone\bin\Debug\net6.0-windows\ChatZone.runtimeconfig.json
+C:\Users\Khalil Farhat\OneDrive\Desktop\Chat Application VB.NET - Copy\ChatZone\bin\Debug\net6.0-windows\ChatZone.dll
+C:\Users\Khalil Farhat\OneDrive\Desktop\Chat Application VB.NET - Copy\ChatZone\bin\Debug\net6.0-windows\ChatZone.pdb
+C:\Users\Khalil Farhat\OneDrive\Desktop\Chat Application VB.NET - Copy\ChatZone\obj\Debug\net6.0-windows\ChatZone.vbproj.AssemblyReference.cache
+C:\Users\Khalil Farhat\OneDrive\Desktop\Chat Application VB.NET - Copy\ChatZone\obj\Debug\net6.0-windows\ChatZone.Home.resources
+C:\Users\Khalil Farhat\OneDrive\Desktop\Chat Application VB.NET - Copy\ChatZone\obj\Debug\net6.0-windows\ChatZone.instructions.resources
+C:\Users\Khalil Farhat\OneDrive\Desktop\Chat Application VB.NET - Copy\ChatZone\obj\Debug\net6.0-windows\ChatZone.mainpage.resources
+C:\Users\Khalil Farhat\OneDrive\Desktop\Chat Application VB.NET - Copy\ChatZone\obj\Debug\net6.0-windows\ChatZone.Resources.resources
+C:\Users\Khalil Farhat\OneDrive\Desktop\Chat Application VB.NET - Copy\ChatZone\obj\Debug\net6.0-windows\ChatZone.vbproj.GenerateResource.cache
+C:\Users\Khalil Farhat\OneDrive\Desktop\Chat Application VB.NET - Copy\ChatZone\obj\Debug\net6.0-windows\ChatZone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Khalil Farhat\OneDrive\Desktop\Chat Application VB.NET - Copy\ChatZone\obj\Debug\net6.0-windows\ChatZone.AssemblyInfoInputs.cache
+C:\Users\Khalil Farhat\OneDrive\Desktop\Chat Application VB.NET - Copy\ChatZone\obj\Debug\net6.0-windows\ChatZone.AssemblyInfo.vb
+C:\Users\Khalil Farhat\OneDrive\Desktop\Chat Application VB.NET - Copy\ChatZone\obj\Debug\net6.0-windows\ChatZone.vbproj.CoreCompileInputs.cache
+C:\Users\Khalil Farhat\OneDrive\Desktop\Chat Application VB.NET - Copy\ChatZone\obj\Debug\net6.0-windows\ChatZone.dll
+C:\Users\Khalil Farhat\OneDrive\Desktop\Chat Application VB.NET - Copy\ChatZone\obj\Debug\net6.0-windows\refint\ChatZone.dll
+C:\Users\Khalil Farhat\OneDrive\Desktop\Chat Application VB.NET - Copy\ChatZone\obj\Debug\net6.0-windows\ChatZone.pdb
+C:\Users\Khalil Farhat\OneDrive\Desktop\Chat Application VB.NET - Copy\ChatZone\obj\Debug\net6.0-windows\ChatZone.genruntimeconfig.cache
+C:\Users\Khalil Farhat\OneDrive\Desktop\Chat Application VB.NET - Copy\ChatZone\obj\Debug\net6.0-windows\ref\ChatZone.dll
